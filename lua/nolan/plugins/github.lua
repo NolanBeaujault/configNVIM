@@ -1,4 +1,4 @@
 return {
   "github/copilot.vim",
-  enable = false,
+  enable = true,
 }
